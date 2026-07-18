@@ -17,7 +17,7 @@
 #
 -->
 
-# Setting up OpenWhisk with Docker for Mac
+# Setting up OpenWhisk with Docker for Mac On Apple Silicon
 
 OpenWhisk can run on a Mac host with [Docker for Mac](https://docs.docker.com/docker-for-mac/).
 If you prefer to use Docker-machine, you can follow instructions in [docker-machine/README.md](docker-machine/README.md)
